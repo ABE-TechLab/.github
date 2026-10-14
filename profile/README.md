@@ -1,5 +1,19 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/341595566?v=4" alt="ABE TechLab brand mark" width="104" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ABE-TechLab/.github/main/profile/assets/abe-techlab-mark-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ABE-TechLab/.github/main/profile/assets/abe-techlab-mark-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ABE-TechLab/.github/main/profile/assets/abe-techlab-mark-light.svg"
+      alt="ABE TechLab logo"
+      width="112"
+    />
+  </picture>
 </p>
 
 <h1 align="center">ABE TechLab</h1>
