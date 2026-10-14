@@ -27,6 +27,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ABE-TechLab/.github/main/profile/assets/abe-techlab-profile-banner.svg" alt="ABE TechLab: Ideas into systems. Systems into impact. Research, design, engineering, and delivery." width="100%" />
+</p>
+
+<p align="center">
   <a href="https://YOUR-WEBSITE.com">Website</a> ·
   <a href="https://github.com/ABE-TechLab/DOCS-REPOSITORY">Documentation</a> ·
   <a href="https://YOUR-WEBSITE.com/blog">Blog</a> ·
@@ -45,18 +49,23 @@ Our vision is to make technology more practical, accessible, and impactful—cre
 
 ## What We Build
 
-- **Digital products and software platforms** designed around real user and business needs.
-- **Intelligent systems and workflows** that make information and processes more useful.
-- **Integrations and automation** that connect tools, reduce repetitive work, and improve how work gets done.
-- **Customer-facing and operational experiences** that make complex tasks clearer and easier to use.
+| | |
+| --- | --- |
+| **Digital products & platforms**<br/>Useful software shaped around real user and business needs. | **Intelligent systems & workflows**<br/>Make information and processes more useful. |
+| **Integrations & automation**<br/>Connect tools, reduce repetitive work, and improve how work gets done. | **Customer & operational experiences**<br/>Make complex tasks clearer, more usable, and easier to navigate. |
 
 ## How We Work
 
-1. **Understand the problem** — Learn who we are building for, what matters, and what constraints shape the challenge.
-2. **Plan intelligently** — Explore options, define outcomes, and choose a practical direction.
-3. **Build thoughtfully** — Make deliberate design and engineering decisions with attention to quality, security, and maintainability.
-4. **Validate the result** — Test assumptions and evaluate whether the solution works in practice.
-5. **Improve continuously** — Use feedback and evidence to refine what we build over time.
+We move from discovery to delivery in deliberate steps, then use feedback to guide the next iteration.
+
+```mermaid
+flowchart LR
+    A["01 · Understand<br/>People & constraints"] --> B["02 · Plan<br/>Scope & direction"]
+    B --> C["03 · Build<br/>Design & engineering"]
+    C --> D["04 · Validate<br/>Test & learn"]
+    D --> E["05 · Improve<br/>Feedback & iteration"]
+    E -. "learning loop" .-> A
+```
 
 ## Our Principles
 
